@@ -9,6 +9,6 @@ The content based:-The implementation of this model is extremely trivial. All we
 Collaborative Filtering:-Collaborative filtering uses similarities between users and items simultaneously to provide recommendations. This allows for serendipitous recommendations; that is, collaborative filtering models can recommend an item to user A based on the interests of a similar user B.
 
 
-Here's the link to my demo video:- https://youtu.be/rR5KTO92DYs
+Here's the link to my demo video:- https://youtu.be/Dra5xXUJaaE
 
 
